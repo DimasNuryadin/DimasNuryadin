@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasNuryadin&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasNuryadin&theme=gotham)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DimasNuryadin&repo=github-readme-stats)
