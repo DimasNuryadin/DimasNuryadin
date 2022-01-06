@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasNuryadin&theme=gotham)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DimasNuryadin&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DimasNuryadin&show_icons=true&theme=gotham)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasNuryadin&theme=gotham)
