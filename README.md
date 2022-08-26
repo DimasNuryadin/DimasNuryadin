@@ -1,4 +1,4 @@
-### Hi there, my name is Dimas 👋
+### Hi there, my name is Dimas Nuryadin 👋
 
 <!--
 **DimasNuryadin/DimasNuryadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
