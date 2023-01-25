@@ -1,7 +1,9 @@
 ### Hi there, my name is Dimas Nuryadin 👋
 
 
-**DimasNuryadin/DimasNuryadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🌱 I’m currently learning MERN Stack
+<!-- **DimasNuryadin/DimasNuryadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning MERN Stack
@@ -10,7 +12,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 
